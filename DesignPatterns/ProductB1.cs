@@ -10,6 +10,7 @@ namespace AbstractFactory
         {
             Console.WriteLine(this.GetType().Name +
               " interacts with " + a.GetType().Name);
+
         }
     }
 }
